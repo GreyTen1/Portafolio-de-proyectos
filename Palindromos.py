@@ -1,6 +1,3 @@
-# No es la forma más optima de obtener un palindromo.
-# Aunque queria destacarlo porque hice un razonamiento interesante para
-# obtener el resultado deseado.
 
 
 
